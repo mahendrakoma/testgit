@@ -1,3 +1,5 @@
 <?
-php echo "hi";
+<?php
+print_r (phpinfo());
 ?>
+
